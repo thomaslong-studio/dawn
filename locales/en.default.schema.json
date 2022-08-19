@@ -582,6 +582,12 @@
           "settings": {
             "collection": {
               "label": "Collection"
+            },
+            "title": {
+              "label": "Title Override"
+            },
+            "image": {
+              "label": "Image Override"
             }
           }
         }
